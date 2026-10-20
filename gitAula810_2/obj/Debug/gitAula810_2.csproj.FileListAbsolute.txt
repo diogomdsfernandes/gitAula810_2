@@ -1,0 +1,10 @@
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\bin\Debug\gitAula810_2.exe.config
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\bin\Debug\gitAula810_2.exe
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\bin\Debug\gitAula810_2.pdb
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.csproj.AssemblyReference.cache
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.Form1.resources
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.Properties.Resources.resources
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.csproj.GenerateResource.cache
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.csproj.CoreCompileInputs.cache
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.exe
+C:\Users\fernas\source\repos\gitAula810_2\gitAula810_2\obj\Debug\gitAula810_2.pdb

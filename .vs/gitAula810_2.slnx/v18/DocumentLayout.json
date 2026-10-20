@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fernas\\source\\repos\\gitAula810_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F55579A5-946E-4414-B3FB-482348BBA7A4}|gitAula810_2\\gitAula810_2.csproj|c:\\users\\fernas\\source\\repos\\gitaula810_2\\gitaula810_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55579A5-946E-4414-B3FB-482348BBA7A4}|gitAula810_2\\gitAula810_2.csproj|solutionrelative:gitaula810_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F55579A5-946E-4414-B3FB-482348BBA7A4}|gitAula810_2\\gitAula810_2.csproj|c:\\users\\fernas\\source\\repos\\gitaula810_2\\gitaula810_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F55579A5-946E-4414-B3FB-482348BBA7A4}|gitAula810_2\\gitAula810_2.csproj|solutionrelative:gitaula810_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fernas\\source\\repos\\gitAula810_2\\gitAula810_2\\Form1.cs",
+              "RelativeDocumentMoniker": "gitAula810_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\fernas\\source\\repos\\gitAula810_2\\gitAula810_2\\Form1.cs",
+              "RelativeToolTip": "gitAula810_2\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:44:49.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fernas\\source\\repos\\gitAula810_2\\gitAula810_2\\Form1.cs",
               "RelativeDocumentMoniker": "gitAula810_2\\Form1.cs",
